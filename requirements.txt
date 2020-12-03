@@ -1,0 +1,3 @@
+tensorflow
+keras-rl2
+gym
